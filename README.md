@@ -1,6 +1,9 @@
-🚧 **Project Under Construction** 🚧
+<p align="center">
+  🚧 <strong>Project Under Construction</strong> 🚧
+</p>
 
-**Idea**: Create a centrified platform where construction companies can navigate through all the public contracts.
+**Idea**:
+Create a centrified platform where construction companies can navigate through all the public contracts.
 
 **Flow of work**:
 1. Automatically download the gazette PDF from the regional website when a new one is available.
